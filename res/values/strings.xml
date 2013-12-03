@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Top 25 Movies From iTunes</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    
+    <!-- menu.xml -->
+    <string name="menu_action_about_title">About</string>
+    
+    <!-- MovieListFragment -->
+    <string name="movie_list_is_empty">Loading Movies Top 20&#8230;</string>
+    
+    <!-- fragment_movie_detail.xml -->
+    <string name="movie_details_image_content_description">Image</string>
+
+    <!-- MovieListArrayAdapter -->
+    <string name="movie_rank">#</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_copyright">Copyright</string>
+    
+    
+    <!-- list_item_layout.xml -->
+    <string name="movie_small_image_content_description">Image</string>
+    
+    
+    
+</resources>
